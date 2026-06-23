@@ -1,1 +1,12 @@
-this is some learning of git and github and version control.
+This is some learning of git and github and version control
+-----------------------------------------------------------
+1. clone the repo/ git clone https://github.com/username/reponame
+2. create a new branch/ git checkout -b your-branch-name
+3. make changes to the code
+4. commit the changes/ git add . and git commit -m "your commit message"
+5. go to main branch/ git checkout main
+6. git pull origin main
+7. git checkout your-branch-name
+8. git merge main
+9. git push origin your-branch-name
+10. create a pull request on GitHub to merge your changes into the main branch
